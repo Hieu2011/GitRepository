@@ -6,3 +6,5 @@
 //function Task 2
 
 //Code chức năng task feature các kiểu
+
+//fix bug đồ các kiểu
